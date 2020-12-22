@@ -14,18 +14,23 @@ paginate = 2
   # These sections are ordered following the menu order. The collection is displayed
   # as "post" archetypes for the menu item with an identifier matching contentTypeName.
 
+[params.twitter]
+  creator = "@justinnuwin"
+  site = "@justinnuwin"
+
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    keywords = ""
-    copyright = ""
+    title = "Justin Nguyen / Software Engineer"
+    subtitle = "Justin Nguyen's Professional Portfolio"
+    keywords = "software developer big data big-data bigdata machine learning signal processing python c c++ c/c++ git github computer vision data mangement data-mangement embedded systems architect hardware projects portfolio cubesats satellites space"
+    copyright = "© 2020 Justin Nguyen"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "Justin Nguyen / Software Engineer"
+      logoSplit = " / "   # Places logo text blocks in to spans so they wrap nicely
       logoHomeLink = "/"
 
     [languages.en.menu]
