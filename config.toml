@@ -1,7 +1,7 @@
 baseurl = "https://justinnuwin.com/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 2
+paginate = 10
 
 [params]
   contentTypeName = "experience"

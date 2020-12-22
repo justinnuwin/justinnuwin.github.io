@@ -1,6 +1,6 @@
 +++
 title = "Cal Poly Autonomous Vehicle Security Group"
-date = "2019-01-25"
+date = "2020-06-14"
 daterange = "Jan 2017 - Jun 2020"
 author = "Undergraduate Researcher"
 cover = ""
