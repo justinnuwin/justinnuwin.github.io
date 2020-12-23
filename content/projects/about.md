@@ -2,6 +2,11 @@
 title = "About"
 date = "2019-01-25"
 author = "Radek"
+cover = ""
+tags = []
+keywords = []
+description = ""
+showFullContent = false
 +++
 
 # Hi there

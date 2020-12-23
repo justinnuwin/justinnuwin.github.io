@@ -2,6 +2,11 @@
 title: "Showcase"
 date: "2018-07-18"
 author: "Hello Robot"
+cover: ""
+tags: []
+keywords: []
+description: ""
+showFullContent: false
 ---
 
 ## Header 2
