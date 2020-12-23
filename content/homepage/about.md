@@ -1,6 +1,6 @@
 +++
 title = "About"
-cover = "img/me.jpg"
+cover = "homepage/me.jpg"
 layout = "2col-right"
 +++
 
