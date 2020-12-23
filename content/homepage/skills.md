@@ -1,6 +1,6 @@
 +++
 title = "Skills"
-cover = "img/exocube-hardware.jpg"
+cover = "experience/polysat-2020/exocube-hardware.jpg"
 layout = "2col-left"
 +++
 

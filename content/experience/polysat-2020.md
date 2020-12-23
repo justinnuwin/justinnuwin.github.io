@@ -3,10 +3,10 @@ title = "Cal Poly CubeSat Lab (PolySat)"
 date = "2020-07-14"
 daterange = "Nov 2016 - Jul 2020"
 author = "Lab Manager • Ground Station Lead • Electrical Engineer"
-cover = ""
+cover = "experience/polysat-2020/exocube-hardware.jpg"
 tags = ["pcb design", "embedded systems", "microcontrollers"]
 keywords = ["kword1", "kword2"]
-description = "Somthing short"
+description = "I designd flight hardware and software for CubeSats, developed hardware and software interfaces with testability in mind, and led the lab through a sprint where the lab was producing multiple flagship missions at once."
 showFullContent = false
 +++
 
