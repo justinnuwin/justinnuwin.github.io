@@ -4,8 +4,10 @@ cover = "homepage/exocube-hardware-skills.jpg"
 layout = "2col-left"
 +++
 
-- Python and packages such as Numpy, Pandas, PyTorch, Keras, and Sklearn
-- C/C++ for desktop and embedded applications with experience with libraries such as OpenCV, Boost, gRPC, ProtoBuf
-- Hardware design PCB layout in Allegro and Altium
-- Experience with ultra-low power systems, I2C, SPI, UART, LVDS, MIPI, and USB. Some experience working with RF designs
-- Systems architecture for end-to-end data collection and processing pipelines
+- [Python](/tags/python/) and packages such as Numpy, Pandas, PyTorch, Keras, and Sklearn
+- [C/C++](/tags/c++) for desktop and embedded applications with experience with libraries such as [OpenCV](/tags/opencv), Boost, gRPC, ProtoBuf
+- Proficient with [machine learning](/tags/machine-learning) techniques and libraries. Experience working with [computer vision](/tags/computer-vision/) and [speech recognition](/projects/asr-music-semester-project/)
+- Hardware design [PCB layout](/tags/pcb-design/) in Allegro and Altium
+- Experience with [embedded systems](/tags/embedded-systems/), particularly: ultra-low power systems, interconnect protocols, network protocols, and RF design
+
+[View all my projects and experiences by tag to find something more specific.](/tags)
