@@ -10,22 +10,9 @@ description = "I designd flight hardware and software for CubeSats, developed ha
 showFullContent = false
 +++
 
-- Consult for the start up of new CubeSat programs (LigerSat- Phnom Penh, Cambodia; Bronco Space-Cal Poly Pamona)
-- Lead lab restructuring and redevelopment effort to overhaul training, systems engineering, V&V (verification and validation) checkpoints, hardware development workflows, internal receiving inspections, internal review processes, documentation processes, procedure development, and management and team structures to improve lab efficiency and success
-- Manage CubeSat missions and projects in Cal Poly CubeSat Lab (CP-7 DAVE, CP-12 ExoCube 2, CP-14 ADE, CP-15 Spinnacker3, SWIS, NIAC, Pocket Rocket, Sensor Development)
-- Coordinate design and production timelines to ensure on-time delivery
-- Review discipline team processes to maximize quality
-- Delegate tasks with project and discipline leads to ensure balanced workload throughout engineering teams
-- Improve on system level and electronic subsystem design for early mission designs sharing core hardware used across Cal Poly CubeSat Lab missions
-- Meet with individual teams and team members to assist with testing and assembly tasks and scheduling
-- Improved lab recruiting process
-- Interim CP-12 ExoCube 2 Mission Manager
+### Electrical Engineer
 
-- Organize operations team for various flight missions: CP-7 DAVE, CP-10 ISX, CP-12 ExoCube II
-- Train new members on groundstation infrastructure and operation
-- Maintain Cal Poly's 3 UHF/VHF ground stations used for operating in-orbit spacecraft
-- Coordinate ground station team for spacecraft operations
-- Manage ground station projects (Ground Station In a Box, Local RF Noise Measurement Project)
+__2016 - 2020__
 
 - Rigid and Flexible PCB design in OrCAD and Altium
 - Lead electrical design reviews
@@ -41,3 +28,29 @@ showFullContent = false
 - Review and improve testing procedures
 - Write documentation for assembly procedures, board modification procedures, and OrCAD design tutorials
 - Train new members in electrical system design, high speed digital design, and PCB design using OrCAD and Altium
+
+
+### Groundstation Lead
+
+__2017 - 2019__
+
+- Organize operations team for various flight missions: CP-7 DAVE, CP-10 ISX, CP-12 ExoCube II
+- Train new members on groundstation infrastructure and operation
+- Maintain Cal Poly's 3 UHF/VHF ground stations used for operating in-orbit spacecraft
+- Coordinate ground station team for spacecraft operations
+- Manage ground station projects (Ground Station In a Box, Local RF Noise Measurement Project)
+
+### Lab Manager
+
+__2018 - 2020__
+
+- Consult for the start up of new CubeSat programs (LigerSat- Phnom Penh, Cambodia; Bronco Space-Cal Poly Pamona)
+- Lead lab restructuring and redevelopment effort to overhaul training, systems engineering, V&V (verification and validation) checkpoints, hardware development workflows, internal receiving inspections, internal review processes, documentation processes, procedure development, and management and team structures to improve lab efficiency and success
+- Manage CubeSat missions and projects in Cal Poly CubeSat Lab (CP-7 DAVE, CP-12 ExoCube 2, CP-14 ADE, CP-15 Spinnacker3, SWIS, NIAC, Pocket Rocket, Sensor Development)
+- Coordinate design and production timelines to ensure on-time delivery
+- Review discipline team processes to maximize quality
+- Delegate tasks with project and discipline leads to ensure balanced workload throughout engineering teams
+- Improve on system level and electronic subsystem design for early mission designs sharing core hardware used across Cal Poly CubeSat Lab missions
+- Meet with individual teams and team members to assist with testing and assembly tasks and scheduling
+- Improved lab recruiting process
+- Interim CP-12 ExoCube 2 Mission Manager
