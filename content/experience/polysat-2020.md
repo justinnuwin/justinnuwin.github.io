@@ -4,11 +4,16 @@ date = "2020-07-14"
 daterange = "Nov 2016 - Jul 2020"
 author = "Lab Manager • Ground Station Lead • Electrical Engineer"
 cover = "experience/polysat-2020/exocube-hardware.jpg"
-tags = ["pcb design", "embedded systems", "microcontrollers"]
+tags = ["pcb design", "embedded systems", "microcontrollers", "cubesat"]
 keywords = ["kword1", "kword2"]
 description = "I designd flight hardware and software for CubeSats, developed hardware and software interfaces with testability in mind, and led the lab through a sprint where the lab was producing multiple flagship missions at once."
 showFullContent = false
 +++
+
+I was heavily involved in the [Cal Poly CubeSat Lab (PolySat)](https://www.polysat.org) during my undergraduate.
+While working there for 4 years, I have worked on many CubeSat missions in a variety of roles throughout various mission lifetimes.
+I list out my accomplishmets and various projects below.
+I also interned at [JPL, working on the MarCO CubeSat](/experience/jpl-2018) which was highly relavent to my experience at the Cal Poly CubeSat Lab.
 
 ### Electrical Engineer
 
