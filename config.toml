@@ -1,4 +1,4 @@
-baseurl = "https://justinnuwin.com/"
+baseurl = "https://www.justinnuwin.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 10
