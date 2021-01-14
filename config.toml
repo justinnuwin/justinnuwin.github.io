@@ -2,6 +2,7 @@ baseurl = "https://www.justinnuwin.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 10
+googleAnalytics = "G-YWJYYVFQXF"
 
 [params]
   contentTypeName = "experience"
@@ -22,7 +23,7 @@ paginate = 10
 [languages]
   [languages.en]
     title = "Justin Nguyen / Software Engineer"
-    subtitle = "Justin Nguyen's Professional Portfolio"
+    subtitle = "Justin Nguyen's Portfolio"
     keywords = "software developer big data big-data bigdata machine learning signal processing python c c++ c/c++ git github computer vision data mangement data-mangement embedded systems architect hardware projects portfolio cubesats satellites space"
     copyright = "© 2020 Justin Nguyen"
     menuMore = "Show more"
