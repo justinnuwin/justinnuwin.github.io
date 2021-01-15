@@ -9,12 +9,9 @@ googleAnalytics = "G-YWJYYVFQXF"
   themeColor = "green"
   showMenuItems = 6
   fullWidthTheme = false
+  # favicon = "favicon.ico"
   centerTheme = true
-  # singlePageSite moves pages from the main nav menu to sections on the homepage.
-  # These only menu items with a url starting with "/#" will be displayed using the
-  # front matter defined in "homepage/". A collection is displayed for other menu items.
   singlePageSite = true
-  homepagePaginateCount = 2
 
 [params.twitter]
   creator = "@justinnuwin"
