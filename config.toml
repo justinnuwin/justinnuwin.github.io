@@ -2,7 +2,9 @@ baseurl = "https://www.justinnuwin.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 10
-googleAnalytics = "G-YWJYYVFQXF"
+# googleAnalytics = "G-YWJYYVFQXF"
+# Awaiting PR#7780 (https://github.com/gohugoio/hugo/pull/7780) which includes a template for the new GTag analytics partial
+# In the meantime extended header partial is used to manually input the analytics script
 
 [params]
   contentTypeName = "experience"
