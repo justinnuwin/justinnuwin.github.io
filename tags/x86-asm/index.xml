@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>x86 asm on Justin Nguyen / Software Engineer</title><link>https://www.justinnuwin.com/tags/x86-asm/</link><description>Recent content in x86 asm on Justin Nguyen / Software Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2020 Justin Nguyen</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.justinnuwin.com/tags/x86-asm/index.xml" rel="self" type="application/rss+xml"/><item><title>potatOS</title><link>https://www.justinnuwin.com/projects/potatos/</link><pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate><guid>https://www.justinnuwin.com/projects/potatos/</guid><description>Github
 I developed an x86_64 operating system and kernel from scratch. The OS has virtual memory and threading implemented.
-Links: Github</description></item></channel></rss>
+Links: Github</description><content>&lt;p>&lt;a href="https://github.com/justinnuwin/potatos">Github&lt;/a>&lt;/p>
+&lt;p>I developed an x86_64 operating system and kernel from scratch.
+The OS has virtual memory and threading implemented.&lt;/p>
+&lt;h4 id="links">Links:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/justinnuwin/potatos">Github&lt;/a>&lt;/li>
+&lt;/ul></content></item></channel></rss>

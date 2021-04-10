@@ -1,2 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pcb design on Justin Nguyen / Software Engineer</title><link>https://www.justinnuwin.com/tags/pcb-design/</link><description>Recent content in pcb design on Justin Nguyen / Software Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2020 Justin Nguyen</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.justinnuwin.com/tags/pcb-design/index.xml" rel="self" type="application/rss+xml"/><item><title>Cal Poly CubeSat Lab (PolySat)</title><link>https://www.justinnuwin.com/experience/polysat-2020/</link><pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate><guid>https://www.justinnuwin.com/experience/polysat-2020/</guid><description>I was heavily involved in the Cal Poly CubeSat Lab (PolySat) during my undergraduate. While working there for 4 years, I have worked on many CubeSat missions in a variety of roles throughout various mission lifetimes. I list out my accomplishmets and various projects below. I also interned at JPL, working on the MarCO CubeSat which was highly relavent to my experience at the Cal Poly CubeSat Lab.
-Electrical Engineer 2016 - 2020</description></item></channel></rss>
+Electrical Engineer 2016 - 2020</description><content>&lt;p>I was heavily involved in the &lt;a href="https://www.polysat.org">Cal Poly CubeSat Lab (PolySat)&lt;/a> during my undergraduate.
+While working there for 4 years, I have worked on many CubeSat missions in a variety of roles throughout various mission lifetimes.
+I list out my accomplishmets and various projects below.
+I also interned at &lt;a href="https://www.justinnuwin.com/experience/jpl-2018">JPL, working on the MarCO CubeSat&lt;/a> which was highly relavent to my experience at the Cal Poly CubeSat Lab.&lt;/p>
+&lt;h3 id="electrical-engineer">Electrical Engineer&lt;/h3>
+&lt;p>&lt;strong>2016 - 2020&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Rigid and Flexible PCB design in OrCAD and Altium&lt;/li>
+&lt;li>Lead electrical design reviews&lt;/li>
+&lt;li>Design and test side panels and custom flat flex cables for 3 CubeSat missions (CP12-ExoCube2, CP14-ADE, C-SPOT)&lt;/li>
+&lt;li>Assist in design and testing of payload interface boards and various peripheral electronics for 6 CubeSat missions (CP10-ISX, CP12-ExoCube2, CP14-ADE, CP15-Spinnacker3, Falcon, C-SPOT)&lt;/li>
+&lt;li>Design updated ground support debugger for CubeSat flight computer utilizing USB&lt;/li>
+&lt;li>Oversee electrical - software interface and functionality testing&lt;/li>
+&lt;li>Test, verify, and validate flight electronic systems (Power, Communications, Command &amp;amp; Data Handling (C&amp;amp;DH))&lt;/li>
+&lt;li>Develop and troubleshoot embedded Linux flight computer utilizing Atmel processor&lt;/li>
+&lt;li>Tune and checkout flight UHF transceivers&lt;/li>
+&lt;li>Tune antennas using VNA (vector network analyzer)&lt;/li>
+&lt;li>Flight Assembly in Class 100,000 Clean Room&lt;/li>
+&lt;li>Review and improve testing procedures&lt;/li>
+&lt;li>Write documentation for assembly procedures, board modification procedures, and OrCAD design tutorials&lt;/li>
+&lt;li>Train new members in electrical system design, high speed digital design, and PCB design using OrCAD and Altium&lt;/li>
+&lt;/ul>
+&lt;h3 id="groundstation-lead">Groundstation Lead&lt;/h3>
+&lt;p>&lt;strong>2017 - 2019&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Organize operations team for various flight missions: CP-7 DAVE, CP-10 ISX, CP-12 ExoCube II&lt;/li>
+&lt;li>Train new members on groundstation infrastructure and operation&lt;/li>
+&lt;li>Maintain Cal Poly&amp;rsquo;s 3 UHF/VHF ground stations used for operating in-orbit spacecraft&lt;/li>
+&lt;li>Coordinate ground station team for spacecraft operations&lt;/li>
+&lt;li>Manage ground station projects (Ground Station In a Box, Local RF Noise Measurement Project)&lt;/li>
+&lt;/ul>
+&lt;h3 id="lab-manager">Lab Manager&lt;/h3>
+&lt;p>&lt;strong>2018 - 2020&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Consult for the start up of new CubeSat programs (LigerSat- Phnom Penh, Cambodia; Bronco Space-Cal Poly Pamona)&lt;/li>
+&lt;li>Lead lab restructuring and redevelopment effort to overhaul training, systems engineering, V&amp;amp;V (verification and validation) checkpoints, hardware development workflows, internal receiving inspections, internal review processes, documentation processes, procedure development, and management and team structures to improve lab efficiency and success&lt;/li>
+&lt;li>Manage CubeSat missions and projects in Cal Poly CubeSat Lab (CP-7 DAVE, CP-12 ExoCube 2, CP-14 ADE, CP-15 Spinnacker3, SWIS, NIAC, Pocket Rocket, Sensor Development)&lt;/li>
+&lt;li>Coordinate design and production timelines to ensure on-time delivery&lt;/li>
+&lt;li>Review discipline team processes to maximize quality&lt;/li>
+&lt;li>Delegate tasks with project and discipline leads to ensure balanced workload throughout engineering teams&lt;/li>
+&lt;li>Improve on system level and electronic subsystem design for early mission designs sharing core hardware used across Cal Poly CubeSat Lab missions&lt;/li>
+&lt;li>Meet with individual teams and team members to assist with testing and assembly tasks and scheduling&lt;/li>
+&lt;li>Improved lab recruiting process&lt;/li>
+&lt;li>Interim CP-12 ExoCube 2 Mission Manager&lt;/li>
+&lt;/ul></content></item></channel></rss>

@@ -1,2 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>node on Justin Nguyen / Software Engineer</title><link>https://www.justinnuwin.com/tags/node/</link><description>Recent content in node on Justin Nguyen / Software Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2020 Justin Nguyen</copyright><lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.justinnuwin.com/tags/node/index.xml" rel="self" type="application/rss+xml"/><item><title>NASA Jet Propulsion Laboratory (JPL)</title><link>https://www.justinnuwin.com/experience/jpl-2018/</link><pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate><guid>https://www.justinnuwin.com/experience/jpl-2018/</guid><description>After 1.5 years working at the Cal Poly CubeSat Lab I had the opportunity to intern at JPL to operate the MarCO CubeSats. MarCO is a pair of CubeSats that were launched with NASA&amp;rsquo;s InSight Lander with the mission to:
-Relay InSight&amp;rsquo;s Entry, Descent, and Landing (EDL) data back to Earth in real-time Demonstrate the capabilities of the CubeSat form-factor in deep-space applications An interesting aspect of the MarCO mission is the level of involvement required due to systematic constraints on the mission.</description></item></channel></rss>
+Relay InSight&amp;rsquo;s Entry, Descent, and Landing (EDL) data back to Earth in real-time Demonstrate the capabilities of the CubeSat form-factor in deep-space applications An interesting aspect of the MarCO mission is the level of involvement required due to systematic constraints on the mission.</description><content>&lt;p>After 1.5 years &lt;a href="https://www.justinnuwin.com/experience/polysat-2020">working at the Cal Poly CubeSat Lab&lt;/a> I had the opportunity to intern at JPL to operate the &lt;a href="https://www.jpl.nasa.gov/cubesat/missions/marco.php">MarCO CubeSats&lt;/a>.
+MarCO is a pair of CubeSats that were launched with NASA&amp;rsquo;s InSight Lander with the mission to:&lt;/p>
+&lt;ul>
+&lt;li>Relay InSight&amp;rsquo;s Entry, Descent, and Landing (EDL) data back to Earth in real-time&lt;/li>
+&lt;li>Demonstrate the capabilities of the CubeSat form-factor in deep-space applications&lt;/li>
+&lt;/ul>
+&lt;p>An interesting aspect of the MarCO mission is the level of involvement required due to systematic constraints on the mission.
+Unlike flagship missions which may have hundreds of personnel for operations alone, CubeSats are targeted for low-cost R&amp;amp;D, development, and operations.
+To accomplish this JPL brought on many partners both in the development and the operations of MarCO.
+&lt;a href="https://www.polysat.org/">Cal Poly and the CubeSat Lab&lt;/a> were selected to assist JPL with MarCO operations; this partnership consisted of two Cal Poly students who would intern at JPL over the duration of the mission to handle day-to-day operations and a larger team of students working from Cal Poly&amp;rsquo;s campus who would do long-term telemetry analysis and forecasting.
+As an intern on the flight operations team, I interfaced the JPL operations team with the operations team at Cal Poly, in addition to my day-to-day duties: drafting and verifying uplink products, analyzing telemetry, and recommending future spacecraft activities.&lt;/p>
+&lt;figure class="right" >
+&lt;img src="https://www.justinnuwin.com/experience/jpl-2018/polysat-team.jpg" alt="PolySat summer students during MarCO mission" />
+&lt;figcaption class="center" >Students working at the Cal Poly CubeSat Lab over the summer tour JPL while MarCO was cruising to Mars. Credit: Michael Fernandez&lt;/figcaption>
+&lt;/figure>
+&lt;p>The MarCO mission used NASA AMMOS AMPCS to handle the ground infrastructure and data management, which was easily accessible from the JPL campus, but it was not feasible to expose critical mission infrastructure externally, so I developed a lightweight data management system that could be more easily shared with Cal Poly.
+The workflow I developed consisted of three parts:&lt;/p>
+&lt;ul>
+&lt;li>A HDF5 (and sqlite) database with an ingestion engine for pulling telemetry from JPL servers&lt;/li>
+&lt;li>NASA OpenMCT which handled all data visualization&lt;/li>
+&lt;li>A python client which interface with the telemetry database to query or update data with strict 2-way data binding protocols to ensure the sources of truth were maintained&lt;/li>
+&lt;/ul>
+&lt;p>In addition to the workflow for allowing external collaborators to access mission data, on the day-to-day side, many tools needed to be developed to streamline and automate more of the mission operations as the team matured and understood the idiosyncrasies of the spacecraft better.
+Some of the tools I developed were:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Telemetry Quicklook&lt;/strong>: A service which aggregates spacecraft data and generates &amp;ldquo;quick-look&amp;rdquo; items in OpenMCT which summarizes spacecraft health.&lt;/li>
+&lt;li>&lt;strong>Automatic Pass Report Generator&lt;/strong>: All spacecraft activities are planned and documented beforehand, but it proved laborious to annotate telemetry with specific events in these procedures, so this tool automatically collects telemetry generated during a procedure and generates a &amp;ldquo;pass report&amp;rdquo; (a pass is a term originally used for Earth-orbiting spacecraft when they would &amp;ldquo;pass&amp;rdquo; overhead) which was a nicely formatted pdf document which could be attached to the procedures and highlighted important telemetry during the activity. This tool was designed with Python and Pandoc.&lt;/li>
+&lt;/ul>
+&lt;img src="https://www.justinnuwin.com/experience/jpl-2018/marco-team-darkroom.jpg" alt="MarCO Operations Team in the SFOC &amp;#39;Dark Room&amp;#39;" class="center" />
+&lt;p>If you would like to learn more about MarCO or InSight see these links:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.jpl.nasa.gov/cubesat/missions/marco.php">MarCO&amp;rsquo;s Website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://solarsystem.nasa.gov/missions/mars-cube-one/in-depth/">In-depth details on MarCO&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jpl.nasa.gov/news/press_kits/insight/">InSight Launch and Landing Press Kit&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>If you would like to learn more about CubeSats here are some helpful links:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.cubesat.org/">The CubeSat Organization (you can find developer documents here)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf">CubeSats 101 by NASA CSLI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nasa.gov/mission_pages/cubesats/index.html">NASA CubeSat News&lt;/a>&lt;/li>
+&lt;/ul></content></item></channel></rss>
