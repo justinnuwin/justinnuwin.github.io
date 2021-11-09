@@ -2,9 +2,9 @@
 The TDC was interfaced to the FPGA SoM that I designed.
 In addition to the FPGA interface, I also developed the kernel and user-space drivers for accessing/debugging the interface and TDC from the SoC Linux environment.
 To leverage full speed data transfers of the FPGA interface I designed, a AXI to USB 3.0 SuperSpeed interface was designed to stream the serialized TDC datastream to a downstream computer.&lt;/p></content></item><item><title>IRIS Flight Software Development</title><link>https://www.justinnuwin.com/projects/iris-rover/</link><pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.justinnuwin.com/projects/iris-rover/</guid><description>Github
-I am currently developing the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover. The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS. The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.
+I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover. The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS. The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.
 Links: Github</description><content>&lt;p>&lt;a href="https://github.com/PlanetaryRobotics/CubeRoverPackage">Github&lt;/a>&lt;/p>
-&lt;p>I am currently developing the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover.
+&lt;p>I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover.
 The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS.
 The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.&lt;/p>
 &lt;h4 id="links">Links:&lt;/h4>

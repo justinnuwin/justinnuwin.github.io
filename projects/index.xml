@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Justin Nguyen / Software Engineer</title><link>https://www.justinnuwin.com/projects/</link><description>Recent content in Projects on Justin Nguyen / Software Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2020 Justin Nguyen</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.justinnuwin.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>IRIS Flight Software Development</title><link>https://www.justinnuwin.com/projects/iris-rover/</link><pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.justinnuwin.com/projects/iris-rover/</guid><description>Github
-I am currently developing the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover. The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS. The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.
+I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover. The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS. The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.
 Links: Github</description><content>&lt;p>&lt;a href="https://github.com/PlanetaryRobotics/CubeRoverPackage">Github&lt;/a>&lt;/p>
-&lt;p>I am currently developing the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover.
+&lt;p>I helped develop the C&amp;amp;DH flight software for IRIS, CMU&amp;rsquo;s Lunar Rover.
 The flight software uses NASA JPL&amp;rsquo;s F-Prime flight-software framework on top of FreeRTOS.
 The C&amp;amp;DH is a TI Hercules Safety-Microcontroller.&lt;/p>
 &lt;h4 id="links">Links:&lt;/h4>
